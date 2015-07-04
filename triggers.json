@@ -1,0 +1,75 @@
+[
+	{
+		"triggers": ["bacon"],
+		"responses": [
+			"I hate bacon!",
+			"I HATE bacon!"
+		]
+	}, {
+		"triggers": ["barbecue sauce", "bbq sauce"],
+		"responses": [
+			"I hate barbecue sauce!"
+		]
+	}, {
+		"triggers": ["firefly"],
+		"responses": [
+			"I hate Firefly."
+		],
+		"followUps": [
+			"It's my least favorite show of all time.",
+			"It's a combination of my least favorite genres of all time."
+		]
+	}, {
+		"triggers": ["ginger ale"],
+		"responses": [
+			"I love ginger ale."
+		],
+		"followUps": [
+			"It's my second favorite soda of all time."
+		]
+	}, {
+		"triggers": ["hot sauce"],
+		"responses": [
+			"I LOVE hot sauce!",
+			"I fucking love hot sauce."
+		]
+	}, {
+		"triggers": ["new york"],
+		"responses": [
+			"New York is the best city.",
+			"New York City best city."
+		]
+	}, {
+		"triggers": ["paramore"],
+		"responses": [
+			"I love Paramore."
+		]
+	}, {
+		"triggers": ["peanut butter"],
+		"responses": [
+			"I hate peanut butter."
+		],
+		"followUps": [
+			"And it's not just the taste.  It's also the texture.",
+			"Not just the taste, but the texture as well."
+		]
+	}, {
+		"triggers": ["pepsi"],
+		"responses": [
+			"I love Pepsi."
+		]
+	}, {
+		"triggers": ["science ficton", "sci fi", "sci-fi"],
+		"responses": [
+			"I hate science fiction."
+		]
+	}, {
+		"triggers": ["the fly"],
+		"responses": [
+			"I love The Fly (1986)."
+		],
+		"followUps": [
+			"It's my favorite non-Pixar movie."
+		]
+	}
+]
