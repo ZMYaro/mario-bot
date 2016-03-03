@@ -67,6 +67,16 @@ function loadTriggerList() {
 				"It's a combination of my least favorite genres of all time."
 			]
 		}, {
+		"triggers": ["how are you", "how you doing", "i\'m sad", "i am sad"],
+		"responses": [
+			"I'm fantastic.",
+			"I'm amazing.",
+			"I'm amazing, as always."
+		],
+		"followUps": [
+			"Every second of life is a gift."
+		]
+	}, {
 			"triggers": ["ginger ale"],
 			"responses": [
 				"I love ginger ale."
