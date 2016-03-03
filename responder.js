@@ -19,6 +19,9 @@ window.addEventListener('load', function() {
 	}, false);
 	textField.disabled = false;
 	textField.focus();
+	
+	// Confirm initialization of MarioBot has completed.
+	alert('I have arrived.');
 }, false);
 
 /**
